@@ -117,7 +117,7 @@ if s:molokai_original == 1
    hi SpecialKey      guifg=#75715E
 else
    hi Normal          guifg=#F8F8F2 guibg=#1B1D1E
-   hi Comment         guifg=#7E8E91
+   hi Comment         guifg=#7E8E91 gui=italic
    hi CursorLine                    guibg=#293739
    hi CursorColumn                  guibg=#293739
    hi ColorColumn                   guibg=#232526
